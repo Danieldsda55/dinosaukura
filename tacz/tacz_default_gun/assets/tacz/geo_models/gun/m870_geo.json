@@ -3492,7 +3492,7 @@
 				{
 					"name": "muzzle_pos",
 					"parent": "positioning2",
-					"pivot": [0, 9.125, -23.25]
+					"pivot": [0, 9.125, -23.125]
 				},
 				{
 					"name": "camera",
@@ -3516,7 +3516,7 @@
 					"name": "refit_view",
 					"parent": "views",
 					"pivot": [20, 9, -2],
-					"rotation": [0, 90, 0]
+					"rotation": [0, 89.9, 0]
 				},
 				{
 					"name": "refit_muzzle_view",
