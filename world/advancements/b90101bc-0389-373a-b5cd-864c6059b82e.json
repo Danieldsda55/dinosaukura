@@ -82,13 +82,18 @@
     "criteria": {
       "minecraft:bamboo_jungle": "2026-07-05 00:39:18 +0000",
       "minecraft:wooded_badlands": "2026-07-05 06:12:56 +0000",
+      "minecraft:badlands": "2026-07-05 15:20:35 +0000",
       "minecraft:beach": "2026-07-04 16:30:58 +0000",
+      "minecraft:dark_forest": "2026-07-05 15:45:19 +0000",
+      "minecraft:stony_peaks": "2026-07-05 15:45:05 +0000",
       "minecraft:sparse_jungle": "2026-07-04 15:36:08 +0000",
       "minecraft:lukewarm_ocean": "2026-07-04 15:43:04 +0000",
       "minecraft:river": "2026-07-04 16:31:53 +0000",
+      "minecraft:stony_shore": "2026-07-05 15:45:31 +0000",
       "minecraft:lush_caves": "2026-07-04 15:49:48 +0000",
       "minecraft:desert": "2026-07-04 15:32:20 +0000",
       "minecraft:jungle": "2026-07-04 16:32:30 +0000",
+      "minecraft:ocean": "2026-07-05 15:45:38 +0000",
       "minecraft:warm_ocean": "2026-07-05 00:38:21 +0000"
     },
     "done": false
@@ -5769,6 +5774,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-07-05 09:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-07-05 09:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-07-05 09:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-07-05 09:31:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2026-07-05 10:10:05 +0000"
@@ -5811,12 +5840,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2026-07-05 09:16:58 +0000"
-    },
-    "done": true
-  },
   "jurassicsaga:recipes/decorations/glass_door_basic": {
     "criteria": {
       "has_glass_pane": "2026-07-05 10:10:05 +0000"
@@ -5844,18 +5867,6 @@
   "bakery:recipes/jar": {
     "criteria": {
       "has_glass_pane": "2026-07-05 10:10:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2026-07-05 09:16:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2026-07-05 09:16:58 +0000"
     },
     "done": true
   },
@@ -5907,9 +5918,316 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
     "criteria": {
-      "crafting_table": "2026-07-05 09:31:06 +0000"
+      "has_items": "2026-07-05 14:30:42 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2026-07-05 14:30:42 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_acknowledgment": {
+    "criteria": {
+      "has_iron_ingot": "2026-07-05 14:30:42 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_twist": {
+    "criteria": {
+      "has_parent_recipe": "2026-07-05 14:30:42 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/relics/enigmatic_amulet": {
+    "criteria": {
+      "has_items": "2026-07-05 14:30:43 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/root": {
+    "criteria": {
+      "flower": "2026-07-05 14:30:43 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infernal_shield": {
+    "criteria": {
+      "has_parent_recipe": "2026-07-05 14:30:43 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/relics/cursed_ring": {
+    "criteria": {
+      "has_items": "2026-07-05 14:30:43 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/iron_ring": {
+    "criteria": {
+      "has_the_recipe": "2026-07-05 14:36:17 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2026-07-05 14:36:17 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/golden_ring": {
+    "criteria": {
+      "has_parent_recipe": "2026-07-05 14:36:17 +0000",
+      "has_items": "2026-07-05 15:27:31 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2026-07-05 14:36:17 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_ring": {
+    "criteria": {
+      "has_parent_recipe": "2026-07-05 14:36:17 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/lamps": {
+    "criteria": {
+      "has_core_block": "2026-07-05 14:56:39 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2026-07-05 14:56:39 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/redstonelamps": {
+    "criteria": {
+      "has_parent_recipe": "2026-07-05 14:56:39 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/shroomlamps": {
+    "criteria": {
+      "has_parent_recipe": "2026-07-05 14:56:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-07-05 15:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-07-05 15:03:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2026-07-05 15:04:10 +0000"
+    },
+    "done": true
+  },
+  "saintsdragons:acquire_dragon_scale": {
+    "criteria": {
+      "has_dragon_scale": "2026-07-05 15:19:23 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2026-07-05 15:27:31 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/desolation_ring": {
+    "criteria": {
+      "has_parent_recipe": "2026-07-05 15:27:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-07-05 15:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-07-05 15:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-07-05 15:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-07-05 15:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2026-07-05 15:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-07-05 15:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-07-05 15:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-07-05 15:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-07-05 15:51:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2026-07-05 15:55:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2026-07-05 15:55:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2026-07-05 15:55:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2026-07-05 15:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2026-07-05 15:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2026-07-05 15:55:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2026-07-05 15:55:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/earth/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2026-07-05 16:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2026-07-05 16:01:19 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2026-07-05 16:03:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2026-07-05 16:15:39 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2026-07-05 16:16:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2026-07-05 16:19:54 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2026-07-05 16:19:54 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/mining_charm": {
+    "criteria": {
+      "has_items": "2026-07-05 16:46:06 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/super_magnet_ring": {
+    "criteria": {
+      "has_items": "2026-07-05 16:46:20 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/accessories/mining_charm": {
+    "criteria": {
+      "has_the_recipe": "2026-07-05 16:46:06 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/extradimensional_eye": {
+    "criteria": {
+      "has_items": "2026-07-05 16:46:20 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/extradimensional_eye": {
+    "criteria": {
+      "has_the_recipe": "2026-07-05 16:46:20 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2026-07-05 16:46:20 +0000"
     },
     "done": true
   },
