@@ -85,7 +85,8 @@
       "minecraft:lukewarm_ocean": "2026-07-04 15:58:33 +0000",
       "minecraft:river": "2026-07-04 17:02:32 +0000",
       "minecraft:lush_caves": "2026-07-04 16:14:56 +0000",
-      "minecraft:desert": "2026-07-04 15:48:17 +0000"
+      "minecraft:desert": "2026-07-04 15:48:17 +0000",
+      "minecraft:warm_ocean": "2026-07-05 06:29:13 +0000"
     },
     "done": false
   },
@@ -331,6 +332,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2026-07-05 06:03:22 +0000",
       "cooked_beef": "2026-07-04 17:12:15 +0000",
       "cooked_cod": "2026-07-04 17:20:14 +0000",
       "bread": "2026-07-04 16:17:05 +0000"
@@ -3352,6 +3354,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2026-07-05 05:40:46 +0000",
+      "minecraft:spider": "2026-07-05 06:37:21 +0000",
+      "minecraft:creeper": "2026-07-05 06:17:29 +0000",
+      "minecraft:enderman": "2026-07-05 06:46:27 +0000",
+      "minecraft:endermite": "2026-07-05 07:05:16 +0000",
       "minecraft:zombie": "2026-07-04 17:28:10 +0000"
     },
     "done": false
@@ -3599,6 +3606,726 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_the_recipe": "2026-07-04 17:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2026-07-05 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2026-07-05 06:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2026-07-05 06:30:48 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/twisted_scroll": {
+    "criteria": {
+      "has_paper": "2026-07-05 05:44:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2026-07-05 06:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2026-07-05 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers/goggles": {
+    "criteria": {
+      "has_item": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/purified_water_bottle_from_smelting_potion": {
+    "criteria": {
+      "has_potion": "2026-07-05 06:10:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers/shield": {
+    "criteria": {
+      "has_item": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-07-05 06:37:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2026-07-05 06:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-07-05 06:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2026-07-05 06:30:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2026-07-05 06:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers/pants": {
+    "criteria": {
+      "has_item": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_the_recipe": "2026-07-05 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2026-07-05 05:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2026-07-05 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-07-05 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2026-07-05 06:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2026-07-05 06:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-07-05 06:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2026-07-05 06:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-07-05 06:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2026-07-05 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2026-07-05 06:30:49 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2026-07-05 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/iron_band": {
+    "criteria": {
+      "has_lava": "2026-07-05 06:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2026-07-05 06:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2026-07-05 06:32:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2026-07-05 07:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2026-07-05 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/chaotic_pendant": {
+    "criteria": {
+      "has_enchanted_book": "2026-07-05 07:05:51 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/yellow_duck": {
+    "criteria": {
+      "has_yellow_wool": "2026-07-05 06:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/name_tag": {
+    "criteria": {
+      "has_paper": "2026-07-05 05:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-07-05 06:08:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/yeast": {
+    "criteria": {
+      "has_sugar": "2026-07-05 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2026-07-05 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/desert_helmet": {
+    "criteria": {
+      "has_leather": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "saintsdragons:recipes/cindervane_binder": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2026-07-05 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/tools/seasonal_calendar": {
+    "criteria": {
+      "has_paper": "2026-07-05 05:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2026-07-05 06:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2026-07-05 06:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2026-07-05 06:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2026-07-05 06:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2026-07-05 06:36:38 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/large_canteen": {
+    "criteria": {
+      "has_leather": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "jurassicsaga:recipes/tools/guidebook": {
+    "criteria": {
+      "has_book": "2026-07-05 06:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2026-07-05 06:29:16 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2026-07-05 06:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-07-05 06:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2026-07-05 06:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2026-07-05 06:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-07-05 06:26:51 +0000"
+    },
+    "done": true
+  },
+  "saintsdragons:recipes/nulljaw_binder": {
+    "criteria": {
+      "has_ender_pearl": "2026-07-05 06:47:44 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/philosophers_stone": {
+    "criteria": {
+      "has_glowstone": "2026-07-05 06:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2026-07-05 05:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2026-07-05 05:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2026-07-05 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/purified_water_bottle_from_blasting_potion": {
+    "criteria": {
+      "has_potion": "2026-07-05 06:10:23 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/backtrack_mirror": {
+    "criteria": {
+      "has_ender_pearl": "2026-07-05 06:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2026-07-05 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2026-07-05 06:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-07-05 06:26:51 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/philosophers_stone_alt": {
+    "criteria": {
+      "has_glowstone": "2026-07-05 06:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2026-07-05 06:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2026-07-05 06:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2026-07-05 06:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2026-07-05 06:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-07-05 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2026-07-05 06:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2026-07-05 06:30:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2026-07-05 06:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2026-07-05 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-07-05 06:30:49 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers/boots": {
+    "criteria": {
+      "has_item": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-07-05 06:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-07-05 06:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2026-07-05 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-07-05 06:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2026-07-05 06:27:49 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/desert_leggings": {
+    "criteria": {
+      "has_leather": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers/chestplate": {
+    "criteria": {
+      "has_item": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-07-05 06:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2026-07-05 06:36:38 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/desert_chestplate": {
+    "criteria": {
+      "has_leather": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-07-05 06:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2026-07-05 06:29:27 +0000"
+    },
+    "done": true
+  },
+  "jurassicsaga:recipes/decorations/roof_tiles": {
+    "criteria": {
+      "has_bricks": "2026-07-05 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-07-05 06:30:49 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/skywalker_scroll": {
+    "criteria": {
+      "has_paper": "2026-07-05 05:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2026-07-05 06:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2026-07-05 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-07-05 06:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2026-07-05 06:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2026-07-05 05:44:48 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/canteen": {
+    "criteria": {
+      "has_leather": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2026-07-05 06:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-07-05 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/workbench": {
+    "criteria": {
+      "has_smithing_table": "2026-07-05 06:34:30 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/desert_boots": {
+    "criteria": {
+      "has_leather": "2026-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-07-05 06:32:35 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/decorations/cooler": {
+    "criteria": {
+      "has_stone": "2026-07-05 06:30:49 +0000"
     },
     "done": true
   },
