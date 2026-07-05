@@ -14,3 +14,70 @@
 [05Jul2026 01:21:49.603] [Worker-Main-368/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/swamp
 [05Jul2026 01:21:49.632] [Worker-Main-368/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
 [05Jul2026 01:21:49.632] [Worker-Main-368/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[05Jul2026 01:48:34.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DungChi1202 has made the advancement [An alchemist's best friend!]
+[05Jul2026 01:49:01.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DungChi1202 has made the advancement [Alchemical Coal]
+[05Jul2026 01:49:43.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DungChi1202 has made the advancement [Mobius Fuel]
+[05Jul2026 01:50:07.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DungChi1202 has made the advancement [Aeternalis Fuel]
+[05Jul2026 01:50:33.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DungChi1202 has made the advancement [All that Matters.]
+[05Jul2026 01:51:36.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DungChi1202 has made the advancement [Even better Matter!]
+[05Jul2026 01:57:01.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DungChi1202 has made the advancement [Enchanter]
+[05Jul2026 02:21:45.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Banhmat[/127.209.147.67:50033] logged in with entity id 174861 at (-62.433095861618504, 68.0, -158.44354048872233)
+[05Jul2026 02:21:45.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banhmat joined the game
+[05Jul2026 02:21:45.753] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[05Jul2026 02:21:45.755] [Server thread/INFO] [Jade/]: Syncing config to Banhmat (4210534a-7e27-3b6c-aef6-dc1732a2c894)
+[05Jul2026 02:33:53.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banhmat has made the advancement [Hot Stuff]
+[05Jul2026 02:33:55.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banhmat tried to swim in lava
+[05Jul2026 02:41:16.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Banhmat> dit mua he r
+[05Jul2026 02:41:21.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> ha
+[05Jul2026 02:43:40.860] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ice_spikes took 22111 ms
+[05Jul2026 02:43:40.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22089ms or 441 ticks behind
+[05Jul2026 02:43:40.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Banhmat moved too quickly! -9.250901905602184,0.0,-4.01274398301473
+[05Jul2026 02:44:06.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Banhmat: Teleported Banhmat to 4353.500000, 68.000000, 544.500000]
+[05Jul2026 02:44:06.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4568ms or 91 ticks behind
+[05Jul2026 02:44:31.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banhmat has made the advancement [Fruits of the Field]
+[05Jul2026 02:45:22.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Banhmat> ra day m tranh nong
+[05Jul2026 02:45:59.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banhmat has made the advancement [Minecraft Comes Alive]
+[05Jul2026 02:46:07.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banhmat has made the advancement [Forbidden Fruit]
+[05Jul2026 02:47:40.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> e m
+[05Jul2026 02:47:44.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Banhmat> s m
+[05Jul2026 02:47:49.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> m co waystone ko
+[05Jul2026 02:47:56.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Banhmat> che m
+[05Jul2026 02:48:11.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> the m co amethyst ko
+[05Jul2026 02:48:24.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Banhmat> o duoi hang mik co ma
+[05Jul2026 02:48:30.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> m co dao ko
+[05Jul2026 02:48:35.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Banhmat> ch
+[05Jul2026 02:48:40.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> vl
+[05Jul2026 02:48:50.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Banhmat> nay tan hai o
+[05Jul2026 02:49:29.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Banhmat> nay
+[05Jul2026 02:51:11.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> dau
+[05Jul2026 02:51:52.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> co ngoc ender ko
+[05Jul2026 02:52:02.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Banhmat> ko
+[05Jul2026 02:54:49.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> tp t di
+[05Jul2026 02:55:09.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DungChi1202 fell from a high place
+[05Jul2026 02:55:50.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Banhmat: Teleported Banhmat to DungChi1202]
+[05Jul2026 02:56:02.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Banhmat> m tinh xay j
+[05Jul2026 02:56:07.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Banhmat: Teleported Banhmat to 4353.500000, 68.000000, 544.500000]
+[05Jul2026 02:57:39.994] [Worker-Main-483/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[05Jul2026 02:57:40.004] [Worker-Main-483/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[05Jul2026 02:57:40.004] [Worker-Main-483/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[05Jul2026 02:57:46.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4464, y=67, z=307} BlockPos{x=4464, y=65, z=306}
+[05Jul2026 02:57:46.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4464, y=67, z=307} BlockPos{x=4464, y=65, z=306}
+[05Jul2026 03:01:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> home
+[05Jul2026 03:01:26.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> lai di m
+[05Jul2026 03:01:48.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=69, z=-116} BlockPos{x=-20, y=67, z=-115}
+[05Jul2026 03:03:01.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> e m
+[05Jul2026 03:03:06.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Banhmat> sao m
+[05Jul2026 03:03:13.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> tpa lai di
+[05Jul2026 03:04:27.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> qua di t con afk
+[05Jul2026 03:04:50.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> m dau r
+[05Jul2026 03:04:52.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Banhmat: Teleported Banhmat to DungChi1202]
+[05Jul2026 03:04:59.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> luu waystone de
+[05Jul2026 03:05:10.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Banhmat> r day
+[05Jul2026 03:05:20.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> ok r day
+[05Jul2026 03:05:24.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DungChi1202> t afk da
+[05Jul2026 03:05:33.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Banhmat lost connection: Disconnected
+[05Jul2026 03:05:33.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banhmat left the game
+[05Jul2026 03:12:44.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Satoryu[/127.159.223.80:37595] logged in with entity id 190769 at (-64.87176498037276, 68.0, -163.50594889565065)
+[05Jul2026 03:12:44.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Satoryu joined the game
+[05Jul2026 03:12:44.240] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[05Jul2026 03:12:44.242] [Server thread/INFO] [Jade/]: Syncing config to Satoryu (8e70d1f6-a8ec-3eb4-abe8-8e4456fd2a3b)

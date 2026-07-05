@@ -1990,6 +1990,7 @@
       "minecraft:blaze": "2026-07-04 16:45:48 +0000",
       "minecraft:pillager": "2026-07-05 00:51:34 +0000",
       "minecraft:skeleton": "2026-07-04 16:12:02 +0000",
+      "minecraft:phantom": "2026-07-05 02:34:28 +0000",
       "minecraft:witch": "2026-07-05 00:54:46 +0000",
       "minecraft:wither_skeleton": "2026-07-04 16:53:09 +0000",
       "minecraft:piglin": "2026-07-04 16:42:42 +0000",
@@ -4082,15 +4083,39 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/gem_of_eternal_density": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2026-07-05 00:45:02 +0000"
     },
     "done": true
   },
+  "projecte:recipes/combat/dm_helmet": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2026-07-05 01:18:07 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/dm_pedestal": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:51:36 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/catalytic_lens": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
     },
     "done": true
   },
@@ -4103,6 +4128,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2026-07-04 17:48:07 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/harvest_goddess_band": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
     },
     "done": true
   },
@@ -4136,6 +4167,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 02:53:13 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/magic_arrow_bag": {
+    "criteria": {
+      "has_amethyst_shard": "2026-07-05 02:51:23 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/ender_protector": {
+    "criteria": {
+      "has_amethyst_shard": "2026-07-05 02:51:23 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_shears": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2026-07-05 00:52:22 +0000"
@@ -4148,9 +4203,21 @@
     },
     "done": true
   },
+  "projecte:recipes/decorations/relay_mk1": {
+    "criteria": {
+      "has_diamond": "2026-07-05 01:40:55 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2026-07-04 18:09:52 +0000"
+    },
+    "done": true
+  },
+  "projecte:red_matter": {
+    "criteria": {
+      "rm": "2026-07-05 01:51:36 +0000"
     },
     "done": true
   },
@@ -4160,15 +4227,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-07-05 02:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2026-07-04 18:10:03 +0000"
     },
     "done": true
   },
+  "projecte:recipes/misc/alchemical_coal": {
+    "criteria": {
+      "has_coal": "2026-07-05 01:48:44 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/black_hole_band": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2026-07-05 01:25:26 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/aeternalis_fuel": {
+    "criteria": {
+      "has_mobius_fuel": "2026-07-05 01:49:44 +0000"
     },
     "done": true
   },
@@ -4190,9 +4281,33 @@
     },
     "done": true
   },
+  "projecte:recipes/misc/conversions/alchemical_coal_to_coal": {
+    "criteria": {
+      "has_alchemical_coal": "2026-07-05 01:49:01 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/alchemical_coal_block": {
+    "criteria": {
+      "has_alchemical_coal": "2026-07-05 01:49:01 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/catalytic_lens_alt": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2026-07-05 00:58:47 +0000"
+    },
+    "done": true
+  },
+  "projecte:dark_matter": {
+    "criteria": {
+      "dm": "2026-07-05 01:50:33 +0000"
     },
     "done": true
   },
@@ -4220,15 +4335,45 @@
     },
     "done": true
   },
+  "projecte:recipes/combat/dm_leggings": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/precious_bracelet": {
+    "criteria": {
+      "has_amethyst_shard": "2026-07-05 02:51:23 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/aeternalis_fuel_to_mobius_fuel": {
+    "criteria": {
+      "has_aeternalis_fuel": "2026-07-05 01:50:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2026-07-05 01:18:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2026-07-05 02:51:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "cooked_bacon": "2026-07-05 01:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-07-05 02:51:23 +0000"
     },
     "done": true
   },
@@ -4256,9 +4401,45 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/dm_pick": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
   "celestial_artifacts:recipes/misc/emerald_ring": {
     "criteria": {
       "has_emerald": "2026-07-05 00:58:45 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2026-07-05 01:40:55 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/arcana_ring": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:51:36 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/dark_matter_block": {
+    "criteria": {
+      "has_dark_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "projecte:philosophers_stone": {
+    "criteria": {
+      "philosophers_stone": "2026-07-05 01:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 02:53:13 +0000"
     },
     "done": true
   },
@@ -4280,9 +4461,51 @@
     },
     "done": true
   },
+  "saintsdragons:recipes/cindervane_binder": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 02:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 02:53:13 +0000"
+    },
+    "done": true
+  },
   "legendarysurvivaloverhaul:recipes/tools/seasonal_calendar": {
     "criteria": {
       "has_paper": "2026-07-04 18:09:52 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_hammer": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/mind_stone": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:51:36 +0000"
+    },
+    "done": true
+  },
+  "projecte:alchemical_coal": {
+    "criteria": {
+      "alchemical_coal": "2026-07-05 01:49:01 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/dark_matter": {
+    "criteria": {
+      "has_aeternalis": "2026-07-05 01:50:07 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_axe": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
     },
     "done": true
   },
@@ -4292,9 +4515,27 @@
     },
     "done": true
   },
+  "projecte:recipes/misc/conversions/iron_ingot_to_ender_pearl": {
+    "criteria": {
+      "has_iron_ingot": "2026-07-05 02:52:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2026-07-04 17:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2026-07-05 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/body_stone": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:51:36 +0000"
     },
     "done": true
   },
@@ -4304,9 +4545,27 @@
     },
     "done": true
   },
+  "projecte:aeternalis_fuel": {
+    "criteria": {
+      "aeternalis_fuel": "2026-07-05 01:50:07 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/void_ring": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
   "legendarysurvivaloverhaul:recipes/food/apple_juice": {
     "criteria": {
       "has_apple": "2026-07-05 00:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2026-07-05 02:01:55 +0000"
     },
     "done": true
   },
@@ -4325,6 +4584,12 @@
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper": "2026-07-05 00:44:51 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/dm_sword": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
     },
     "done": true
   },
@@ -4382,6 +4647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 02:53:13 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2026-07-04 18:10:03 +0000"
@@ -4400,9 +4671,27 @@
     },
     "done": true
   },
+  "projecte:recipes/building_blocks/red_matter_block": {
+    "criteria": {
+      "has_red_matter": "2026-07-05 01:51:36 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/zero_ring": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2026-07-04 18:10:03 +0000"
+    },
+    "done": true
+  },
+  "saintsdragons:recipes/nulljaw_binder": {
+    "criteria": {
+      "has_ender_pearl": "2026-07-05 02:52:26 +0000"
     },
     "done": true
   },
@@ -4424,9 +4713,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2026-07-05 01:40:55 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/red_matter_alt": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "projecte:mobius_fuel": {
+    "criteria": {
+      "mobius_fuel": "2026-07-05 01:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 02:53:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper": "2026-07-05 00:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 02:53:13 +0000"
     },
     "done": true
   },
@@ -4472,6 +4791,18 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/backtrack_mirror": {
+    "criteria": {
+      "has_ender_pearl": "2026-07-05 02:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2026-07-05 02:53:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2026-07-05 01:18:07 +0000"
@@ -4496,6 +4827,24 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/dm_hoe": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-07-05 01:57:01 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/mobius_fuel_block": {
+    "criteria": {
+      "has_mobius_fuel": "2026-07-05 01:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2026-07-04 18:10:03 +0000"
@@ -4505,6 +4854,12 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2026-07-05 01:18:07 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/evertide_amulet": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
     },
     "done": true
   },
@@ -4532,9 +4887,39 @@
     },
     "done": true
   },
+  "projecte:recipes/misc/conversions/iron_ingot_to_gold_ingot": {
+    "criteria": {
+      "has_iron_ingot": "2026-07-05 02:52:21 +0000"
+    },
+    "done": true
+  },
   "legendarysurvivaloverhaul:recipes/food/pumpkin_juice": {
     "criteria": {
       "has_pumpkin": "2026-07-05 01:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2026-07-05 02:01:55 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/collector_mk3": {
+    "criteria": {
+      "has_previous": "2026-07-05 01:51:06 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/collector_mk2": {
+    "criteria": {
+      "has_previous": "2026-07-05 01:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 02:53:13 +0000"
     },
     "done": true
   },
@@ -4544,15 +4929,51 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/ignition_ring": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/aeternalis_fuel_block": {
+    "criteria": {
+      "has_aeternalis_fuel": "2026-07-05 01:50:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2026-07-05 00:52:22 +0000"
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/amethyst_reinforce_plate": {
+    "criteria": {
+      "has_amethyst_shard": "2026-07-05 02:51:23 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/dm_chestplate": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/collector_mk1": {
+    "criteria": {
+      "has_diamond": "2026-07-05 01:40:55 +0000"
+    },
+    "done": true
+  },
   "legendarysurvivaloverhaul:recipes/misc/plaster": {
     "criteria": {
       "has_wool": "2026-07-05 01:04:17 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/volcanite_amulet": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
     },
     "done": true
   },
@@ -4586,6 +5007,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2026-07-05 02:00:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2026-07-05 00:54:49 +0000"
@@ -4604,9 +5031,33 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/soul_stone": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-07-05 02:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2026-07-05 02:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2026-07-05 00:45:02 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/archangel_smite": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
     },
     "done": true
   },
@@ -4616,9 +5067,27 @@
     },
     "done": true
   },
+  "projecte:recipes/misc/conversions/mobius_fuel_to_alchemical_coal": {
+    "criteria": {
+      "has_mobius_fuel": "2026-07-05 01:49:44 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/coal_to_charcoal": {
+    "criteria": {
+      "has_coal": "2026-07-05 01:48:44 +0000"
+    },
+    "done": true
+  },
   "saintsdragons:recipes/volitans_binder": {
     "criteria": {
       "has_volitans_spine": "2026-07-05 00:37:47 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/swiftwolf_rending_gale": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
     },
     "done": true
   },
@@ -4628,9 +5097,21 @@
     },
     "done": true
   },
+  "projecte:recipes/combat/dm_boots": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2026-07-05 01:25:46 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/mobius_fuel": {
+    "criteria": {
+      "has_alchemical_coal": "2026-07-05 01:49:01 +0000"
     },
     "done": true
   },
@@ -4658,9 +5139,27 @@
     },
     "done": true
   },
+  "projecte:recipes/decorations/transmutation_table": {
+    "criteria": {
+      "has_philo_stone": "2026-07-05 01:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2026-07-05 02:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2026-07-04 18:09:52 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_shovel": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
     },
     "done": true
   },
@@ -4694,6 +5193,12 @@
     },
     "done": true
   },
+  "projecte:recipes/misc/red_matter": {
+    "criteria": {
+      "has_matter": "2026-07-05 01:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2026-07-05 00:39:17 +0000"
@@ -4703,6 +5208,18 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2026-07-05 00:52:22 +0000"
+    },
+    "done": true
+  },
+  "projecte:root": {
+    "criteria": {
+      "philstone_recipe": "2026-07-05 01:48:26 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/interdiction_torch": {
+    "criteria": {
+      "has_philo_stone": "2026-07-05 01:48:34 +0000"
     },
     "done": true
   },
