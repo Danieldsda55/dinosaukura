@@ -1679,3 +1679,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'jurassicsaga:mamenchisaurus_r
 [05Jul2026 08:49:18.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DungChi1202 has made the advancement [And the Land Remembers]
 [05Jul2026 08:52:08.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DungChi1202 has made the advancement [Best Friends Forever]
 [05Jul2026 08:52:08.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DungChi1202 has completed the challenge [Scorched Earth]
+[05Jul2026 09:03:15.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DungChi1202 has made the advancement [Why?]
+[05Jul2026 09:05:54.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DungChi1202 has made the advancement [Get a Sewing Table]
+[05Jul2026 09:13:16.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DungChi1202 lost connection: Timed out
+[05Jul2026 09:13:16.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DungChi1202 left the game
+[05Jul2026 09:13:36.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DungChi1202[/127.170.64.99:46293] logged in with entity id 79180 at (-63.907371315785845, 69.0, -164.2554597740486)
+[05Jul2026 09:13:36.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DungChi1202 joined the game
+[05Jul2026 09:13:36.080] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[05Jul2026 09:13:36.082] [Server thread/INFO] [Jade/]: Syncing config to DungChi1202 (b90101bc-0389-373a-b5cd-864c6059b82e)
